@@ -7,6 +7,6 @@ class Appointment
   end
 
   def doctor
-    
+  end
 
 end
